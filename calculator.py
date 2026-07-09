@@ -1,2 +1,3 @@
 print("hello world")
-Def (1+2)
+Def add(1,2)
+   return 1+ 2
