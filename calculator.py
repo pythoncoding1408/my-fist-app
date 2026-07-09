@@ -11,4 +11,4 @@ def multiply (a,b):
 def divide (a,b):
     return a / b
 
-print((10,5))
+print(add(10,5))
